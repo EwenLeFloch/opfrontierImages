@@ -1,0 +1,55 @@
+[color=#00ff00][size=200][b][center]Bienvenue a tous ![/center][/b][/size][/color]
+
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/mugiwara.jpg[/img]
+
+
+[color=#ff0000][size=150][center][b]Règles à respecter ![/b][/center][/size][/color]
+[quote][color=#fff]xx[/color][b][Juliano][/b]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Luffy11.png[/img] Hey ! Ici on a beau être chill on a des règles à respecter :[center][b] ► règle à ajouter
+► règle à ajouter
+► règle à ajouter[/b][/center][/quote]
+
+
+
+
+
+[color=#ff00ff][size=150][center][b]Objectifs de l’équipage[/b][/center][/size][/color]
+
+[spoiler][img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/goals-version1.png[/img][/spoiler]
+
+[color=#0000ff][size=150][center][b]Présentation des membres[/b][/center][/size][/color]
+[spoiler]
+[quote][center][b]Capitaine[/b][/center][color=#fff]mll[/color][b][u]Juliano[/u][/b]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Luffy11.png[/img] “Objectif grade 3”[/quote]
+
+[quote][b][u][/u][/b]
+[center][b]Second[/b][/center]
+[/quote]
+
+[quote][center][b]Tireur[/b]
+([color=#00f]+5[/color] / [color=#ff7700]+10[/color]) puissance des attaques en pex[/center][color=#fff]m[/color][b][u]Chopper[/u][/b]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Sasaki_nb05.png[/img] “”[/quote]
+
+[quote][center][b]Cuisinier[/b]
+([color=#00f]+15 minutes[/color] / [color=#ff7700]+30 minutes[/color]) durée des jambons[/center][b][u][color=#fff]*[/color][/u][/b]
+[/quote]
+
+[quote][center][b]Médecin[/b]
+([color=#00f]+20%[/color] / [color=#ff7700]+40%[/color]) Soin après combat[/center][color=#fff]mll[/color][b][u]Limule[/u][/b]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Gladius_nb.png[/img] “”[/quote]
+
+[quote][center][b]Musicien[/b]
+([color=#00f]+10%[/color] / [color=#ff7700]+20%[/color]) Prime après combat[/center][color=#fff]m[/color][b][u]Meiglord[/u][/b]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Kalgara_nb.png[/img] “”[/quote]
+
+[quote][center][b]Navigateur
+Domination des mers[/b]
+[color=#00f]MP quand un ennemi entre le premier sur une île[/color]
+[color=#f70]Affiche l’heure exacte d’ouverture des îles[/color][/center][color=#fff]vlll[/color][b][u]Darkou[/u][/b]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Gladius_nb.png[/img] “”[/quote]
+
+[quote][center][b]Charpentier[/b]
+([color=#00f]-10%[/color] / [color=#f70]-20%[/color]) Prix des bateaux
+[/center][color=#fff]rr[/color][b][u]Kyokotsu[/u][/b]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Perona14.png[/img] “”[/quote]
+[/spoiler]
