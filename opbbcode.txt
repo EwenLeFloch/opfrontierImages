@@ -49,7 +49,22 @@ Domination des mers[/b]
 [img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Gladius_nb.png[/img] “”[/quote]
 
 [quote][center][b]Charpentier[/b]
-([color=#00f]-10%[/color] / [color=#f70]-20%[/color]) Prix des bateaux
+([color=#00f]-10%[/color] / [color=#f70]-30%[/color]) Prix des bateaux
 [/center][color=#fff]rr[/color][b][u]Kyokotsu[/u][/b]
 [img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Perona14.png[/img] “”[/quote]
+
+[quote][center][b]Cannonier[/b]
+([color=#00f]+5[/color] / [color=#f70]+10[/color]) Puissance des attaques en GE
+[/center][color=#fff]n[/color][b][u]Zeroshoot[/u][/b]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Sanji14.png[/img] “Flemme”[/quote]
+
+[quote][center][b]Historien[/b]
+([color=#00f]+10%[/color] / [color=#f70]+20%[/color]) Expérience après combat
+[/center][color=#fff]%%l[/color][b][u]Susu[/u][/b]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Zoro20.png[/img] “”[/quote]
+
+[quote][center][b]Matelot[/b]
+[/center][color=#fff]%%[/color][b][u]Xoryu[/u][/b]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Kalgara_nb.png[/img] “”[/quote]
 [/spoiler]
+
