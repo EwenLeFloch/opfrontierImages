@@ -15,7 +15,7 @@
 
 [color=#ff00ff][size=150][center][b]Objectifs de l’équipage[/b][/center][/size][/color]
 
-[spoiler][center][img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/goals-version1.png[/img][/center][/spoiler]
+[center][img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/goals-version1.png[/img][/center]
 
 [color=#0000ff][size=150][center][b]Présentation des membres[/b][/center][/size][/color]
 [spoiler]
