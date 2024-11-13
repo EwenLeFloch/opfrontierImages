@@ -1,13 +1,13 @@
 [color=#00ff00][size=200][b][center]Bienvenue a tous ![/center][/b][/size][/color]
 
-[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/mugiwara.jpg[/img]
+[center][img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/mugiwara.jpg[/img][/center]
 
 
 [color=#ff0000][size=150][center][b]Règles à respecter ![/b][/center][/size][/color]
 [quote][color=#fff]xx[/color][b][Juliano][/b]
-[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Luffy11.png[/img] Hey ! Ici on a beau être chill on a des règles à respecter :[center][b] ► règle à ajouter
-► règle à ajouter
-► règle à ajouter[/b][/center][/quote]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Luffy11.png[/img] Hey ! Ici on a beau être chill on a des règles à respecter :[center][b] - règle à ajouter
+- règle à ajouter
+- règle à ajouter[/b][/center][/quote]
 
 
 
@@ -15,7 +15,7 @@
 
 [color=#ff00ff][size=150][center][b]Objectifs de l’équipage[/b][/center][/size][/color]
 
-[spoiler][img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/goals-version1.png[/img][/spoiler]
+[spoiler][center][img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/goals-version1.png[/img][/center][/spoiler]
 
 [color=#0000ff][size=150][center][b]Présentation des membres[/b][/center][/size][/color]
 [spoiler]
@@ -31,8 +31,7 @@
 [img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Sasaki_nb05.png[/img] “”[/quote]
 
 [quote][center][b]Cuisinier[/b]
-([color=#00f]+15 minutes[/color] / [color=#ff7700]+30 minutes[/color]) durée des jambons[/center][b][u][color=#fff]*[/color][/u][/b]
-[/quote]
+([color=#00f]+15 minutes[/color] / [color=#ff7700]+30 minutes[/color]) durée des jambons[/center][b][u][color=#fff]*[/color][/u][/b][/quote]
 
 [quote][center][b]Médecin[/b]
 ([color=#00f]+20%[/color] / [color=#ff7700]+40%[/color]) Soin après combat[/center][color=#fff]mll[/color][b][u]Limule[/u][/b]
@@ -68,3 +67,20 @@ Domination des mers[/b]
 [img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Kalgara_nb.png[/img] “”[/quote]
 [/spoiler]
 
+[color=#980000][size=150][center][b]Stratégies et récompenses GEs[/b][/center][/size][/color]
+
+[spoiler]
+[color=#b6b6b6][b][u]Wapol :[/u][/b][/color]
+[color=#fff]mmmm[/color]- [color=#b6b6b6][b]Stratégie :[/b][/color] ??
+[color=#fff]mmmm[/color]- [color=#b6b6b6][b]Récompenses :[/b][/color] ??
+[/spoiler]
+
+[color=#783f04][size=150][center][b]Tactiques en Pex[/b][/center][/size][/color]
+
+[spoiler]
+[b][u]Shells Town[/u][/b]
+[color=#0f0][b]Hermep : [/b][/color] [u]Lady Strike[/u] jusqu’à fin du combat ou fin d’endurance puis [u]Coup de pied[/u]
+[color=#fff]c[/color][color=#f00]10[/color] / [color=#38761D]30[/color] / [color=#00f]35[/color]
+[img]https://raw.githubusercontent.com/EwenLeFloch/opfrontierImages/refs/heads/main/Hermep.png[/img]
+[color=#fff]mm[/color][b]14 pv[/b]
+[/spoiler]
